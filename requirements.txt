@@ -1,3 +1,5 @@
 tk
 touch-sdk
 python-osc
+ttkbootstrap
+pywin32
